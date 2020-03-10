@@ -1,0 +1,11 @@
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.exe
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.deps.json
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.runtimeconfig.json
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.runtimeconfig.dev.json
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.dll
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\bin\Debug\netcoreapp3.0\Cadastro10Pessoas.pdb
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\obj\Debug\netcoreapp3.0\Cadastro10Pessoas.csprojAssemblyReference.cache
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\obj\Debug\netcoreapp3.0\Cadastro10Pessoas.AssemblyInfoInputs.cache
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\obj\Debug\netcoreapp3.0\Cadastro10Pessoas.AssemblyInfo.cs
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\obj\Debug\netcoreapp3.0\Cadastro10Pessoas.dll
+C:\Users\carlosoliveira\source\repos\1\ExemploCadastro10Pessoas\Cadastro10Pessoas\Cadastro10Pessoas\obj\Debug\netcoreapp3.0\Cadastro10Pessoas.pdb
