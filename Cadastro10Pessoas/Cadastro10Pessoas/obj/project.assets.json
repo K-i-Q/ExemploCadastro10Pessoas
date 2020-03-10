@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlosoliveira\\source\\repos\\Cadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas.csproj",
+      "projectUniqueName": "C:\\Users\\carlosoliveira\\source\\repos\\1\\ExemploCadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas.csproj",
       "projectName": "Cadastro10Pessoas",
-      "projectPath": "C:\\Users\\carlosoliveira\\source\\repos\\Cadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas.csproj",
+      "projectPath": "C:\\Users\\carlosoliveira\\source\\repos\\1\\ExemploCadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas.csproj",
       "packagesPath": "C:\\Users\\carlosoliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlosoliveira\\source\\repos\\Cadastro10Pessoas\\Cadastro10Pessoas\\obj\\",
+      "outputPath": "C:\\Users\\carlosoliveira\\source\\repos\\1\\ExemploCadastro10Pessoas\\Cadastro10Pessoas\\Cadastro10Pessoas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
